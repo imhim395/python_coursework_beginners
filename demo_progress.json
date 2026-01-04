@@ -1,0 +1,103 @@
+{
+  "users": {
+    "usr_4b9e5272": {
+      "id": "usr_4b9e5272",
+      "username": "alice",
+      "declared_grade": 4,
+      "xp": 770,
+      "lives": 5,
+      "streak_days": 1,
+      "last_practice": "2025-09-13T22:31:45.472208+00:00",
+      "mastered_modules": [
+        "fractions_3_5",
+        "div_3_5",
+        "mul_3_5"
+      ],
+      "mastery_awarded": [
+        "fractions_3_5",
+        "div_3_5",
+        "mul_3_5"
+      ],
+      "badges": [
+        "xp_500",
+        "frac_master",
+        "div_master",
+        "mul_master"
+      ]
+    }
+  },
+  "attempts": [
+    {
+      "id": "att_c72c407a",
+      "user_id": "usr_4b9e5272",
+      "exercise_id": "ex_ac6c4cd7",
+      "correct": true,
+      "points_awarded": 10,
+      "time_taken": null,
+      "timestamp": "2025-09-13T22:31:45.471849+00:00"
+    },
+    {
+      "id": "att_dbee2f2a",
+      "user_id": "usr_4b9e5272",
+      "exercise_id": "ex_c8453a64",
+      "correct": true,
+      "points_awarded": 15,
+      "time_taken": 1.3733675867306079,
+      "timestamp": "2025-09-13T22:31:45.471935+00:00"
+    },
+    {
+      "id": "att_2262338e",
+      "user_id": "usr_4b9e5272",
+      "exercise_id": "ex_3cb91bee",
+      "correct": true,
+      "points_awarded": 200,
+      "time_taken": 30.0,
+      "timestamp": "2025-09-13T22:31:45.472015+00:00"
+    },
+    {
+      "id": "att_5598c8b5",
+      "user_id": "usr_4b9e5272",
+      "exercise_id": "ex_2b7b8541",
+      "correct": true,
+      "points_awarded": 10,
+      "time_taken": null,
+      "timestamp": "2025-09-13T22:31:45.472106+00:00"
+    },
+    {
+      "id": "att_16611e7d",
+      "user_id": "usr_4b9e5272",
+      "exercise_id": "ex_594b2366",
+      "correct": true,
+      "points_awarded": 15,
+      "time_taken": null,
+      "timestamp": "2025-09-13T22:31:45.472122+00:00"
+    },
+    {
+      "id": "att_2fa4a039",
+      "user_id": "usr_4b9e5272",
+      "exercise_id": "ex_b4176786",
+      "correct": true,
+      "points_awarded": 10,
+      "time_taken": null,
+      "timestamp": "2025-09-13T22:31:45.472179+00:00"
+    },
+    {
+      "id": "att_1f98851a",
+      "user_id": "usr_4b9e5272",
+      "exercise_id": "ex_8225cf82",
+      "correct": true,
+      "points_awarded": 10,
+      "time_taken": null,
+      "timestamp": "2025-09-13T22:31:45.472195+00:00"
+    },
+    {
+      "id": "att_7f69f47b",
+      "user_id": "usr_4b9e5272",
+      "exercise_id": "ex_77b2f28f",
+      "correct": true,
+      "points_awarded": 200,
+      "time_taken": 60.0,
+      "timestamp": "2025-09-13T22:31:45.472212+00:00"
+    }
+  ]
+}

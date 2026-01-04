@@ -1,0 +1,5 @@
+print("This\tmakes\tit\tso\tthat\tthere\tis\ta\tindent\tsized\tspace\t")
+print("this makes a line in between\nsort of like the enter key")
+print("\"This puts your text in quotes, like if a character was saying something in a book\"")
+print("\'Just do single quotes instead of double quotes if you want your text in single quotes\'")
+print("For some reason if you ever want a backslash in your text do a double backslash like this\\")

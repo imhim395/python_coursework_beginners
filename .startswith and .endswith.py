@@ -1,0 +1,6 @@
+print("this is a string".startswith("this"))
+print("this is a string".startswith("T"))
+print("this is a string".startswith("t"))
+print("i got this, fahhhh".endswith("h"))
+print("i am under the water".endswith("water"))
+print("i am under the water".endswith("R"))
